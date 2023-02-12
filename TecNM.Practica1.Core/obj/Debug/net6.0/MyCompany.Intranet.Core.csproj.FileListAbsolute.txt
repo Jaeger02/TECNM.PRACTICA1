@@ -1,0 +1,24 @@
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.csproj.AssemblyReference.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.AssemblyInfoInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.AssemblyInfo.cs
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.deps.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\refint\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Core\obj\Debug\net6.0\ref\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.deps.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\bin\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.csproj.AssemblyReference.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.AssemblyInfoInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.AssemblyInfo.cs
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\refint\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\MyCompany.Intranet.Core\obj\Debug\net6.0\ref\MyCompany.Intranet.Core.dll

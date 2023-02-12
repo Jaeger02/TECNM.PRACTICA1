@@ -1,0 +1,36 @@
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Console.exe
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Console.deps.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Console.runtimeconfig.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Console.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.AssemblyReference.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.AssemblyInfoInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.AssemblyInfo.cs
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\refint\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.genruntimeconfig.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\ref\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\bin\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\1er Parcial\MYCOMPANY\MyCompany.Intranet.Console\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.CopyComplete
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Console.exe
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Console.deps.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Console.runtimeconfig.json
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Console.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Core.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\bin\Debug\net6.0\MyCompany.Intranet.Core.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.AssemblyReference.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.AssemblyInfoInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.AssemblyInfo.cs
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.csproj.CopyComplete
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\refint\MyCompany.Intranet.Console.dll
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.pdb
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\MyCompany.Intranet.Console.genruntimeconfig.cache
+C:\Users\Alan Duarte\Documents\Universidad\10mo Semestre\Tecnologías web multiplataforma\TECNM.PRACTICA1\TecNM.Practica1.App\obj\Debug\net6.0\ref\MyCompany.Intranet.Console.dll
